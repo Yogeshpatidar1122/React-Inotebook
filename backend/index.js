@@ -1,6 +1,6 @@
 const connectToMongo = require('./db');
 const express = require('express')
-var cors = require('cors') 
+var cors = require('cors')
 
 connectToMongo();
 const app = express()
@@ -15,5 +15,5 @@ app.use('/api/notes', require('./routes/notes'))
 
 
 app.listen(port, () => {
-  console.log(`iNotebook backend listening at http://localhost:${port}`)
+    console.log(`iNotebook backend listening at http://localhost:${port}`)
 })

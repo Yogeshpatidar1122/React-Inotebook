@@ -20,6 +20,9 @@ const Navbar = () => {
                         <li className="nav-item">
                             <Link className={`nav-link ${location.pathname==="/about"? "active": ""}`} to="/about">About</Link>
                         </li>
+                        <li className="nav-item">
+                            <Link className={`nav-link ${location.pathname==="/contact"? "active": ""}`} to="/contact">Contact</Link>
+                        </li>
 
                     </ul>
                     <form className="d-flex"> 
