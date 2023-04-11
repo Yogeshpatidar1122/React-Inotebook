@@ -16,11 +16,11 @@ const Notes = () => {
 
     const updateNote = (currentNote) => {
         ref.current.click();
-        setNote({id: currentNote._id, etitle: currentNote.title, edescription: currentNote.description, etag:currentNote.tag})
+        setNote({id: currentNote._id, title: currentNote.title, description: currentNote.description, tag:currentNote.tag})
     }
 
     const handleClick = (e)=>{ 
-        editNote(note.id, note.etitle, note.edescription, note.etag)
+        editNote(note.id, note.title, note.description, note.tag)
         refClose.current.click();
     }
 
