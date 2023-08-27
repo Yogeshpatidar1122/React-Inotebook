@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Inotebook/static/css/main.6882944c.chunk.css",
+    "main.js": "/React-Inotebook/static/js/main.f95b9a41.chunk.js",
+    "main.js.map": "/React-Inotebook/static/js/main.f95b9a41.chunk.js.map",
+    "runtime-main.js": "/React-Inotebook/static/js/runtime-main.0852b455.js",
+    "runtime-main.js.map": "/React-Inotebook/static/js/runtime-main.0852b455.js.map",
+    "static/js/2.298583bb.chunk.js": "/React-Inotebook/static/js/2.298583bb.chunk.js",
+    "static/js/2.298583bb.chunk.js.map": "/React-Inotebook/static/js/2.298583bb.chunk.js.map",
+    "index.html": "/React-Inotebook/index.html",
+    "static/css/main.6882944c.chunk.css.map": "/React-Inotebook/static/css/main.6882944c.chunk.css.map",
+    "static/js/2.298583bb.chunk.js.LICENSE.txt": "/React-Inotebook/static/js/2.298583bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0852b455.js",
+    "static/js/2.298583bb.chunk.js",
+    "static/css/main.6882944c.chunk.css",
+    "static/js/main.f95b9a41.chunk.js"
+  ]
+}
